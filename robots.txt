@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://singswayo.github.io/sitemap.html.gz
+Sitemap: https://singswayo.github.io/app/sitemap.html.gz
+Sitemap: https://singswayo.github.io/assets/sitemap.html.gz
+Sitemap: https://singswayo.github.io/css/sitemap.html.gz
+Sitemap: https://singswayo.github.io/data/sitemap.html.gz
+Sitemap: https://singswayo.github.io/includes/sitemap.html.gz
+Sitemap: https://singswayo.github.io/item/sitemap.html.gz
+Sitemap: https://singswayo.github.io/src/sitemap.html.gz
